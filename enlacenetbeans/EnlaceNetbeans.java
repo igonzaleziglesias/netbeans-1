@@ -6,7 +6,7 @@
 package enlacenetbeans;
 
 /**
- * modificacion
+ * modificacion otra
  */
 public class EnlaceNetbeans {
 
