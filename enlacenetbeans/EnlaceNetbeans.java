@@ -6,8 +6,7 @@
 package enlacenetbeans;
 
 /**
- *
- * @author damian
+ * modificacion
  */
 public class EnlaceNetbeans {
 
@@ -18,6 +17,7 @@ public class EnlaceNetbeans {
         // TODO code application logic here
         
         //mi primer comentario
+        //segundo comentario
     }
     
 }
